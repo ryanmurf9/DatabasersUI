@@ -1,0 +1,3 @@
+Line Charts: https://developers.google.com/chart/interactive/docs/gallery/linechart
+
+Pie Charts: https://developers.google.com/chart/interactive/docs/gallery/piechart
